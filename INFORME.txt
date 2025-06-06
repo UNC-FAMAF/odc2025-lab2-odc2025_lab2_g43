@@ -1,0 +1,14 @@
+Nombre y apellido 
+Integrante 1: Aiden Rodriguez
+Integrante 2: Ezequiel Lautaro Reyna
+Integrante 3: Dahiana Sanchi
+Integrante 4: Ezequiel Accerboni
+
+
+Descripción ejercicio 1: Una imagen del personaje pacman, comiendo puntos en una parte del mapa del juego
+
+
+Descripción ejercicio 2: No realizado
+
+
+Justificación instrucciones ARMv8:
